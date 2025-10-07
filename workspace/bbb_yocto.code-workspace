@@ -1,13 +1,13 @@
 {
     "folders": [
 		{
-			"path": "/media/late/YOCTO_SSD/bbb/workspace"	
+			"path": "/media/late/YOCTO_SSD/bbb/bbb_yocto_pr/workspace"	
 		},
 		{
-			"path": "/media/late/YOCTO_SSD/bbb/poky"
+			"path": "/media/late/YOCTO_SSD/bbb/bbb_yocto_pr/poky"
 		},
 		{
-			"path": "/media/late/YOCTO_SSD/bbb/docs"
+			"path": "/media/late/YOCTO_SSD/bbb/bbb_yocto_pr/docs"
 		}
 	],
     "settings": {
